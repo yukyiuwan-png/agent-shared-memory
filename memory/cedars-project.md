@@ -10,3 +10,5 @@
 - 每條記憶開頭加標籤，例如【tag:cedars-company-data】。
 - 資訊有更新時直接修改舊記錄，不重複堆疊；未經明確要求不得刪除舊記憶。
 - 修改後必須 commit 並 push 回倉庫，commit message 簡潔，例如：add memory：CEDARS專案腳本資訊
+
+【tag:cedars-company-data】CEDARS專案：Origin倉庫 cedars-company-data，執行 scripts/build_documents.py 從CSV重建docx/xlsx。
